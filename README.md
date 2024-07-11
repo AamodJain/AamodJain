@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer who loves bu
 ## 📈 GitHub Stats
 
 ![Aamod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AamodJain&show_icons=true&theme=radical)
-<a href="https://git.io/streak-stats"><br>
+<a href="https://git.io/streak-stats">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=AamodJain&theme=midnight-purple" />
       </a><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AamodJain&layout=compact&theme=radical)
