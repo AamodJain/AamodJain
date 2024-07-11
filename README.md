@@ -1,9 +1,6 @@
 # Hi there, I'm Aamod Jain 👋
 
-![Visitor](https://visitor-badge.glitch.me/badge?page_id=AamodJain.AamodJain)
-
-Welcome to my GitHub profile! I'm a passionate full-stack developer who loves building innovative applications and solving complex problems. Below, you'll find some of my most exciting projects, skills, and a bit more about me.
-
+Welcome to my GitHub profile! I'm a passionate full-stack developer who loves building innovative applications and solving complex problems. 
 
 ## 🛠️ My Tech Stack
 
