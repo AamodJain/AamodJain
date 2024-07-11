@@ -25,6 +25,6 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer who loves bu
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/aamod-jain)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)]([https://linkedin.com/in/aamod-jain](https://www.linkedin.com/in/aamod-jain-96abab27b/))
 
 ⭐️ From [Aamod Jain](https://github.com/AamodJain)
