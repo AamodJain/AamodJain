@@ -1,21 +1,9 @@
-![Header](https://github.com/AamodJain/your-repo/blob/main/assets/header.png)
-
 # Hi there, I'm Aamod Jain 👋
 
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=AamodJain.AamodJain)
 
 Welcome to my GitHub profile! I'm a passionate full-stack developer who loves building innovative applications and solving complex problems. Below, you'll find some of my most exciting projects, skills, and a bit more about me.
 
-## 🚀 About Me
-
-- 🔭 I’m currently working on [EchoSphere](https://github.com/AamodJain/EchoSphere)
-- 🌱 I’m currently learning [New Technology or Language]
-- 👯 I’m looking to collaborate on [Open Source Projects/Technologies]
-- 🤔 I’m looking for help with [What You Need Help With]
-- 💬 Ask me about [Topics You're Knowledgeable About]
-- 📫 How to reach me: [aamod.jain@example.com] (Replace with your actual email)
-- 😄 Pronouns: [Your Pronouns] (Replace with your pronouns)
-- ⚡ Fun fact: [A Fun Fact About You] (Replace with a fun fact)
 
 ## 🛠️ My Tech Stack
 
