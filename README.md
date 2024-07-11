@@ -5,6 +5,8 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer who loves bu
 ## 🛠️ My Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
