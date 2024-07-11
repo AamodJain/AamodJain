@@ -26,23 +26,5 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer who loves bu
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/aamod-jain)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/aamod_jain)
-[![Personal Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=website)](https://your-website.com) (Replace with your actual website)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AamodJain&theme=radical)
-
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
 
 ⭐️ From [Aamod Jain](https://github.com/AamodJain)
