@@ -32,4 +32,6 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer who loves bu
 </p>
 
 ⭐️ From [Aamod Jain](https://github.com/AamodJain)
+
+---
 [![](https://visitcount.itsvg.in/api?id=VedantBedi12&icon=2&color=0)](https://visitcount.itsvg.in)
